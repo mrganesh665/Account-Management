@@ -1,6 +1,6 @@
-# React + Vite
+# Account Management :
 
-Account Management :
+
 Overview :-
 This project is a React-based application that includes user registration, login, and the ability to manage user information. Users can register, log in, edit, and delete information.
 
