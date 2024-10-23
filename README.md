@@ -43,6 +43,6 @@ Notes:-
 -Ensure that the JSON server is running on port 5000 while using the application.
 -The backend database is managed using a db.json file within the backend directory.
 
-Commands Summary:-
--Start React Dev Server: npm run dev
--Start JSON Server: npx json-server backend/db.json --watch --port 5000
+Commands Summary:
+> Start React Dev Server: npm run dev
+> Start JSON Server: npx json-server backend/db.json --watch --port 5000
