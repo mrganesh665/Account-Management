@@ -15,8 +15,8 @@ Prerequisites :-
 Installation and Setup :-
 
 1. Clone the repository:
-git clone <repository-url>
-cd <project-directory>
+git (clone repository-url)
+cd (project-directory)
 
 2. Install dependencies: 
 npm install
