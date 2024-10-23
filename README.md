@@ -1,8 +1,5 @@
 # React + Vite
 
-
-Here’s the edited version formatted for GitHub:
-
 Account Management :
 Overview :-
 This project is a React-based application that includes user registration, login, and the ability to manage user information. Users can register, log in, edit, and delete information.
@@ -15,14 +12,14 @@ Prerequisites :-
 Installation and Setup :-
 
 1. Clone the repository:
-git (clone repository-url)
-cd (project-directory)
+ git [clone repository-url]
+ cd [project-directory]
 
 2. Install dependencies: 
-npm install
+ npm install
 
 3. Start the React development server:
-npm run dev
+ npm run dev
 
 4. Start the JSON server:
 Open a new terminal and run:
