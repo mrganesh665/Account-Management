@@ -1,48 +1,48 @@
 # Account Management :
 
 
-Overview :-
+Overview :-  <br>
 This project is a React-based application that includes user registration, login, and the ability to manage user information. Users can register, log in, edit, and delete information.
 
 Prerequisites :-
--Node.js (v14+)
--npm (v6+)
--json-server
+-Node.js (v14+)  <br>
+-npm (v6+)      <br>
+-json-server   <br>
+ 
+Installation and Setup :-  <br>
 
-Installation and Setup :-
-
-1. Clone the repository:
+1. Clone the repository:  <br>
  git [clone repository-url]  <br>
  cd [project-directory]
 
-2. Install dependencies: 
- npm install
+2. Install dependencies: <br>
+ npm install  <br>
+ 
+3. Start the React development server: <br>
+ npm run dev <br>
 
-3. Start the React development server:
- npm run dev
+4. Start the JSON server:  <br>
+Open a new terminal and run:  <br>
+npx json-server backend/db.json --watch --port 5000  <br>
 
-4. Start the JSON server:
-Open a new terminal and run:
-npx json-server backend/db.json --watch --port 5000
+Usage :- <br>
 
-Usage :-
+1. Register a new account:  <br>
+-Open the application and navigate to the Register page.  <br>
+-Fill in the required details and submit the form.  <br>
 
-1. Register a new account:
--Open the application and navigate to the Register page.
--Fill in the required details and submit the form.
+3. Login to your account:  <br>
+-Navigate to the Login page and enter your credentials to log in. <br>
 
-3. Login to your account:
--Navigate to the Login page and enter your credentials to log in.
-
-3. Manage user information:
--Navigate to the Users page to see a list of registered users.
--You can edit or delete user information using the corresponding buttons.
+3. Manage user information: <br>
+-Navigate to the Users page to see a list of registered users. <br>
+-You can edit or delete user information using the corresponding buttons. <br>
 
 
-Notes:-
--Ensure that the JSON server is running on port 5000 while using the application.
--The backend database is managed using a db.json file within the backend directory.
+Notes:-  <br> 
+-Ensure that the JSON server is running on port 5000 while using the application.  <br>
+-The backend database is managed using a db.json file within the backend directory. <br>
 
-Commands Summary:
+Commands Summary: <br>
  Start React Dev Server: npm run dev <br>
  Start JSON Server: npx json-server backend/db.json --watch --port 5000
