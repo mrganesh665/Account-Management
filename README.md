@@ -12,7 +12,7 @@ Prerequisites :-
 Installation and Setup :-
 
 1. Clone the repository:
- git [clone repository-url]
+ git [clone repository-url]  <br>
  cd [project-directory]
 
 2. Install dependencies: 
@@ -44,5 +44,5 @@ Notes:-
 -The backend database is managed using a db.json file within the backend directory.
 
 Commands Summary:
-> Start React Dev Server: npm run dev
-> Start JSON Server: npx json-server backend/db.json --watch --port 5000
+ Start React Dev Server: npm run dev <br>
+ Start JSON Server: npx json-server backend/db.json --watch --port 5000
